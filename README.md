@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Basic Rock-Papers-Scissors game made for The Odin Project
+Basic Rock-Paper-Scissors game made for The Odin Project
