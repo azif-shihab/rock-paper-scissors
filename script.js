@@ -15,6 +15,14 @@ function getBotChoice(){
 	return selection;
 }
 
+function getUserChoice(){
+	const userInput = prompt("Enter a Choice.");
+	const selection = userInput.toLowerCase();
+	
+	return selection;
+}
+
 const botChoice = getBotChoice();
+const userChoice = getUserChoice();
 
 
